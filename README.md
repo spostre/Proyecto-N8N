@@ -189,6 +189,6 @@ A alto nivel, el flujo hace:
 
 ------
 
-## Licencia
 
-Uso interno / proyecto de referencia (ajústala si vas a publicarlo: MIT/Apache-2.0/etc.).
+
+
