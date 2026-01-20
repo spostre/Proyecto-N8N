@@ -1,4 +1,6 @@
 # AgendaBot (Telegram + n8n + Google Sheets)
+Jeison Cristancho - Santiago Centeno   E1
+
 
 AgendaBot es un bot conversacional por Telegram, construido con **n8n** y **Google Sheets** como base de datos, para **agendar citas, gestionar tareas, hábitos y listas** mediante **menús numéricos** y flujos guiados (wizard).
  El proyecto cumple el enfoque “sin plataformas de pago / sin APIs que exijan tarjeta” y mantiene la interacción clara: **el usuario siempre elige con números, el bot explica, sugiere y siempre ofrece salida (volver/cancelar)**.
@@ -188,6 +190,7 @@ A alto nivel, el flujo hace:
 - Mensajería humanizada: saluda, explica, muestra opciones y cómo salir.
 
 ------
+
 
 
 
